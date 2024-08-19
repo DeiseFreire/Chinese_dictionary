@@ -8,8 +8,8 @@
 
 # Chinese Dictionary
 
-🏗️ Chinese dictionary in progress 🏗️
-
-To access the dictionary, visit the Wiki
-
-This repository is the central hub, but the main content is being developed on the wiki
+> 🏗️ Chinese dictionary in progress 🏗️
+> 
+> To access the dictionary, visit the Wiki
+> 
+> [This repository is the central hub, but the main content is being developed on the wiki](https://github.com/DeiseFreire/Chinese_dictionary/wiki)
