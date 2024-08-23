@@ -1,4 +1,5 @@
-# Dicionário de Chinês
+# Dicionário de Chinês [![China](https://github.com/user-attachments/assets/e95b9b91-9dc4-4f38-af67-6974a6e5a489)](https://github.com/DeiseFreire/Chinese_dictionary)
+
 
 > 🏗️ Dicionário de chinês em construção 🏗️
 >
