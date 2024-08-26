@@ -18,7 +18,7 @@
 
 # 🏗️ Chinesisches Wörterbuch 🏗️
 >
-> Chinesisches Wörterbuch in Arbeit 
+> **Chinesisches Wörterbuch in Arbeit** 
 >
 > **Um auf das Wörterbuch zuzugreifen, besuchen Sie die [![Wiki](https://github.com/user-attachments/assets/1182aed4-8fcf-47e5-a6e1-2460efc7bca4)](https://github.com/DeiseFreire/Chinese_dictionary/wiki)**
 >
