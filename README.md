@@ -17,6 +17,8 @@ Estou desenvolvendo uma base de dados pessoal utilizando o meu wiki como platafo
 > Google Tradutor. Disponível em: <https://translate.google.com/>
 >
 > ROSS, Claudia; MA, Jing-heng Sheng. Modern Mandarin Chinese grammar: A practical guide. Routledge, 2017.
+>
+> Duolingo. "Duolingo: O jeito mais divertido de aprender um idioma." Disponível em: https://www.duolingo.com/.
 
 # Chinese Dictionary
 
