@@ -21,6 +21,8 @@ Estou desenvolvendo uma base de dados pessoal utilizando o meu wiki como platafo
 > Duolingo. "Duolingo: O jeito mais divertido de aprender um idioma." Disponível em: https://www.duolingo.com/.
 >
 > ArchChinese. Disponível em: https://www.archchinese.com/
+>
+> Wikipedia. Disponível em: https://zh.wikipedia.org/wiki/File
 
 # Chinese Dictionary
 
