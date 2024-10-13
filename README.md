@@ -1,6 +1,9 @@
-# Dicionário de Chinês [![China](https://github.com/user-attachments/assets/e95b9b91-9dc4-4f38-af67-6974a6e5a489)](https://github.com/DeiseFreire/Chinese_dictionary)
-
+### Dicionário de Chinês [![China](https://github.com/user-attachments/assets/e95b9b91-9dc4-4f38-af67-6974a6e5a489)](https://github.com/DeiseFreire/Chinese_dictionary) <a href="https://br.pinterest.com/pin/359584351516105122/" target="blank"><img align="right" src="https://i.pinimg.com/originals/0e/b7/2f/0eb72ffd998de5f6fb4d0bc3ec15333f.gif" alt="" height="80" /></a> 
+***
 Estou desenvolvendo uma base de dados pessoal utilizando o meu wiki como plataforma. Essa base de dados servirá como um glossário personalizado para meus estudos em chinês o meu desejo é otimizar o meu processo de aprendizagem.
+
+
+https://br.pinterest.com/pin/359584351516105122/
 
 > 🏗️ Dicionário de chinês em construção 🏗️
 >
