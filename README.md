@@ -3,8 +3,6 @@
 Estou desenvolvendo uma base de dados pessoal utilizando o meu wiki como plataforma. Essa base de dados servirá como um glossário personalizado para meus estudos em chinês o meu desejo é otimizar o meu processo de aprendizagem.
 
 
-https://br.pinterest.com/pin/359584351516105122/
-
 > 🏗️ Dicionário de chinês em construção 🏗️
 >
 > **Para acessar o dicionário, visite o [![Wiki](https://github.com/user-attachments/assets/1182aed4-8fcf-47e5-a6e1-2460efc7bca4)](https://github.com/DeiseFreire/Chinese_dictionary/wiki)**
