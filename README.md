@@ -24,6 +24,8 @@ Estou desenvolvendo uma base de dados pessoal utilizando o meu wiki como platafo
 > ArchChinese. Disponível em: https://www.archchinese.com/
 >
 > Wikipedia. Disponível em: https://zh.wikipedia.org/wiki/File
+>
+> Learn Chinese Characters. Disponível em: https://www.learnchineseez.com
 
 # Chinese Dictionary
 
