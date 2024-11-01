@@ -26,6 +26,8 @@ Estou desenvolvendo uma base de dados pessoal utilizando o meu wiki como platafo
 > Wikipedia. Disponível em: https://zh.wikipedia.org/wiki/File
 >
 > Learn Chinese Characters. Disponível em: https://www.learnchineseez.com
+>
+> Twin Cities Chinese Tutor. Disponível em: https://www.youtube.com/@ChineseGrammarSimplified
 
 # Chinese Dictionary
 
