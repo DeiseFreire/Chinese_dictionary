@@ -23,7 +23,6 @@
 | Türkçe | Bu Karakterdeki Radikaller | positive |
 | Español | Radicales en este carácter | positive |
 
-***
 > [!IMPORTANT]
 >
 > » **Meaning:**正 [ zhēng ] first month of the lunar year
