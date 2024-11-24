@@ -25,7 +25,7 @@
 
 > [!IMPORTANT]
 >
-> » **Meaning:**正 [ zhēng ] first month of the lunar year
+> » **Meaning:** 正 [ zhēng ] first month of the lunar year
 >
 > » **Significado:** 正 [ zhēng ] primeiro mês do ano lunar
 >
