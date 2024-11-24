@@ -1,4 +1,4 @@
-<a href="https://dictionary.writtenchinese.com/worddetail/zheng/1042/1/1" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/zheng/1042/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E6%AD%A3%20%5B%20zh%C4%93ng%20%5D/%E6%AD%A3%20%5B%20zh%C4%93ng%20%5D.gif" alt="" height="100" /></a> 
 
 » **Hanzi:** 正 
 
@@ -37,5 +37,5 @@
 > » **Significado:** 正 [ zhēng ] primer mes del año lunar
 
 <p align="center">
-<a href="https://dictionary.writtenchinese.com/worddetail/zheng/1042/1/1" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/zheng/1042/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E6%AD%A3%20%5B%20zh%C4%93ng%20%5D/%E6%AD%A3%20%5B%20zh%C4%93ng%20%5D.gif" alt="" height="100" /></a> 
 </p>
