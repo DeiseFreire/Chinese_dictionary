@@ -1,4 +1,4 @@
-<a href="https://dictionary.writtenchinese.com/worddetail/huo/3744/1/1" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/huo/3744/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E7%81%AB%20%5B%20zh%C4%93ng%20%5D/%E7%81%AB.gif" alt="" height="100" /></a> 
 
 » **Hanzi:** 火 
 
@@ -25,7 +25,7 @@
 | Türkçe | Bu Karakterdeki Radikaller | ateş |
 | Español | Radicales en este carácter | fuego |
 
-***
+
 > [!IMPORTANT]
 >
 > » **Meaning:** 火 [ huǒ ] fire, urgent, ammunition, fiery or flaming, internal heat (chinese medicine), hot (popular), classifier for military units (old), surname huo
@@ -39,5 +39,5 @@
 > » **Significado:** 火 [ huǒ ] fuego, urgente, munición, ardiente o llameante, calor interno (medicina china), caliente (popular), clasificador de unidades militares (antiguo), apellido huo
 
 <p align="center">
-<a href="https://dictionary.writtenchinese.com/worddetail/huo/3744/1/1" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/huo/3744/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E7%81%AB%20%5B%20zh%C4%93ng%20%5D/%E7%81%AB.gif" alt="" height="100" /></a> 
 </p>
