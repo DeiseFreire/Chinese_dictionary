@@ -1,4 +1,4 @@
-<a href="https://dictionary.writtenchinese.com/worddetail/yan/2322/1/1" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/yan/2322/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E8%A8%80%20%5B%20y%C3%A1n%20%5D/%E8%A8%80%20%5B%20y%C3%A1n%20%5D.gif" alt="" height="100" /></a> 
 
 » **Hanzi:** 言  
 
@@ -25,7 +25,7 @@
 | Türkçe | Bu Karakterdeki Radikaller | konuşma |
 | Español | Radicales en este carácter | discurso |
 
-***
+
 > [!IMPORTANT]
 >
 > » **Meaning:** 言 [ yán ] words. speech. to say. to talk
@@ -39,5 +39,5 @@
 > » **Significado:** 言 [ yán ] palabras. discurso. decir. hablar
 
 <p align="center">
-<a href="https://dictionary.writtenchinese.com/worddetail/yan/2322/1/1" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/yan/2322/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E8%A8%80%20%5B%20y%C3%A1n%20%5D/%E8%A8%80%20%5B%20y%C3%A1n%20%5D.gif" alt="" height="100" /></a> 
 </p>
