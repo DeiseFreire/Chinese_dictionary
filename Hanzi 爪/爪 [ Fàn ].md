@@ -1,17 +1,14 @@
-<a href="https://www.youtube.com/@deisefreire5875/videos" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/zhua/20248/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E7%88%AA/%E7%88%AA.gif" alt="" height="100" /></a> 
 
 » **Hanzi:** 爪
 
 » **Pinyin:** Fàn
 
-» Radical:  爪 
-
+» **Radical:** 爪 
 
 » **Tons:** ā á ǎ à ē é ě è ī í ǐ ì ō ó ǒ ò ū ú ǔ ù ǖ ǘ ǚ ǜ 
 
-
-» Parts of Speech:  noun
-
+» **Parts of Speech:** noun
 
 | Idiomas |  | 爪 |
 | :---: | :---: | :---: |
@@ -22,7 +19,6 @@
 | Türkçe | Bu Karakterdeki Radikaller | pençe | 
 | Español | Radicales en este carácter | garra | 
 
-***
 > [!IMPORTANT]
 >
 > » **Meaning**:  爪 [ zhuǎ, zhǎo ] claw, nail, talon, animal feet
@@ -35,7 +31,6 @@
 > 
 > » **Significado:** 爪 [ zhuǎ, zhǎo ] garra, uña, garra, patas de animal
 
-
 <p align="center">
-<a href="https://www.youtube.com/@deisefreire5875/videos" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/zhua/20248/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E7%88%AA/%E7%88%AA.gif" alt="" height="100" /></a> 
 </p>
