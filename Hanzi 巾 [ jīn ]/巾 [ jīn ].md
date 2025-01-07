@@ -1,4 +1,4 @@
-<a href="https://dictionary.writtenchinese.com/worddetail/jin/18256/1/1" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/jin/18256/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E5%B7%BE%20%5B%20j%C4%ABn%20%5D/%E5%B7%BE%20%5B%20j%C4%ABn%20%5D.gif" alt="" height="100" /></a> 
 
 » **Hanzi:** 巾  
 
@@ -38,5 +38,5 @@
 > » **Significado:** 巾 [ jīn ] Pañuelo. Toalla. Paño de uso general. Prenda para cubrir la cabeza de las mujeres (antigua). Kangxi radical 50
 
 <p align="center">
-<a href="https://dictionary.writtenchinese.com/worddetail/jin/18256/1/1" target="blank"><img align="center" src="" alt="" height="100" /></a> 
+<a href="https://dictionary.writtenchinese.com/worddetail/jin/18256/1/1" target="blank"><img align="center" src="https://github.com/DeiseFreire/Chinese_dictionary/blob/main/Hanzi%20%E5%B7%BE%20%5B%20j%C4%ABn%20%5D/%E5%B7%BE%20%5B%20j%C4%ABn%20%5D.gif" alt="" height="100" /></a> 
 </p>
